@@ -1,3 +1,4 @@
 *.log
 !server.log
 tracker.txt
+connectionstring.txt
